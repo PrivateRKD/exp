@@ -1,0 +1,7 @@
+##VOD_ID: astro.com.my_47_PACK0000000000477495 16-02-2024
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://data-key.go-ott.workers.dev/NjA2Zjc2YzFjMjRhYjdkODdlMDQ4MTA3ZjU1YTI5MTA6NmFmMjEzOGZiZjk2OGZlMmI0NTE5NWQyYzkzOTg3ZDg=|Referer=https://f66f183d-80c8-447e-bf10-eaa2af6ea958.ref
+#EXTVLCOPT:http-user-agent=OTT_1/v2.3.6
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="series" group-title="1. Recently Added" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_74937_IVP_LAND_917x516_2024120_14720.jpg",Lakshana E317
+https://ott-1.xyz/dash-wv/vode/c0fa6b52-1317-5fc5-bf79-1043b367ef67/default_primary.mpd
